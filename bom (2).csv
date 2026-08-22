@@ -1,0 +1,7 @@
+﻿Nombre,Cantidad,Componente
+"1",1," Placa de pruebas pequeña"
+"U1",1," Arduino Uno R3"
+"D1",1,"Azul LED"
+"R1",1,"10 kΩ Resistencia"
+"R2",1,"220 Ω Resistencia"
+"S1",1," Pulsador"
